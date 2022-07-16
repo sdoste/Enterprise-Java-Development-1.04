@@ -2,9 +2,9 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-        int[] testnumbers = new int[]{4, 8, 3, 4, 5, 8};
-        //System.out.println(getDifference(testnumbers));
-        //getTwoSmall(testnumbers);
+        int[] testNumbers = new int[]{4, 8, 3, 4, 5, 8};
+        //System.out.println(getDifference(testNumbers));
+        //getTwoSmall(testNumbers);
         System.out.println(mathExpr(2, 5));
     }
 
